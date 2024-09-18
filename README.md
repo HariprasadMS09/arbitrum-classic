@@ -1,6 +1,7 @@
 <p align="center"><img src="docs/assets/arbitrum_horizontal_logo.png" width="600"></p>
 
 # Arbitrum Classic Monorepo
+<P>fuck u </P>
 
 This repo represents the old "classic" Arbitrum tech stack; Arbitrum One was upgraded to use the Nitro tech in August of 2022. 
 
